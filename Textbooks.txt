@@ -1,0 +1,4 @@
+Textbooks
+
+Sutton and Barton Reinforcement Learning: http://incompleteideas.net/book/RLbook2020.pdf
+Bandit Algorithms: https://tor-lattimore.com/downloads/book/book.pdf
